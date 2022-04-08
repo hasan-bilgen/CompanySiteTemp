@@ -1,1 +1,1 @@
-# CompanySiteTemp
+# Company Website Template
